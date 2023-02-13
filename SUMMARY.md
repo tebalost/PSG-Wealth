@@ -10,16 +10,3 @@
   * [Mission](future/vision-mission-standard-principles-and-focus/mission.md)
   * [Focus](future/vision-mission-standard-principles-and-focus/focus.md)
 * [💖 Values](future/values.md)
-
-## Code
-
-* [👋 Meet the Team!](code/meet-the-team.md)
-
-## Umbraco
-
-* [🤝 How we Work Together](umbraco/how-we-work-together.md)
-* [📅 Meetings](umbraco/meetings.md)
-
-## Database
-
-* [🌴 Requesting Time Off](database/requesting-time-off.md)
