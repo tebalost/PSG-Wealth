@@ -10,19 +10,20 @@ description: >-
 ## Our Focus
 
 {% hint style="info" %}
-**Focus:** PSG Currently has multiple Mobile Apps that are managed by different teams/vendors and have a different look and feel and offer a different user experience. PSG needs one mobile app that will be a kind of marketplace of services and offerings, whether in-house or third-party ones, gathered under one umbrella.  "A PSG app would be closed ecosystem of many apps that users would use every day because it would offer a seamless, integrated, contextualized and efficient experience." &#x20;
+**Focus:** PSG Currently has multiple Mobile Apps that are managed by different teams/vendors and have a different look and feel and offer a different user experience. PSG needs one mobile app that will be a kind of marketplace of services and offerings, whether in-house or third-party ones, gathered under one umbrella.  "A PSG app would be closed ecosystem of many apps that users would use every day because it would offer a seamless, integrated, contextualized and efficient experience."
 
-Users will not have to switch between Apps to get all necessary information/assistance with regards to PSG and there is a need to build micro-services that will always render services to the mobile app and public facing website.&#x20;
+Users will not have to switch between Apps to get all necessary information/assistance with regards to PSG and there is a need to build micro-services that will always render services to the mobile app and public facing website.
 {% endhint %}
 
 Main Focus
 
 * [x] Ensure the Chat/Message us feature functions properly in that, when it's outside working hours, it must let visitors to leave their contact details for follow-up.
+* [x] The [https://www.psg.co.za/save-and-invest/compare-investment-products](https://www.psg.co.za/save-and-invest/compare-investment-products) seems not to properly function since the presented options are not clickable.&#x20;
 * [x] Eliminate the Google Forms that dominate all products and services by making user onboarding as automatic as possible.
 * [x] Add the Play/App Store Icons with Links to redirect users to download an App for their devices.
 * [x] Develop and automated product catalog that dynamically displays products based on user selection while wishing to proceed with an online/app application.
 * [x] Ensure that standard pricing is visible upfront for some of the offering that have standard prices and enable users to choose and submit applications for these products and only confirm and activate the users.
-* [x] Reduce/Eliminate the number of vendors for digital platforms or try to engage with one who delivers either web/mobile.&#x20;
+* [x] Reduce/Eliminate the number of vendors for digital platforms or try to engage with one who delivers either web/mobile.
 
 > I have noted the following vendors/services for difference platforms
 
@@ -31,13 +32,13 @@ Main Focus
 * [x] **CLC** - PSG Assist App
 * [x] **Liquid Edge** -myPSG App
 * [x] **Iress** - PSG Wealth App
-* [x] **Dreamtec Innovations** - **** PSG Insure Meesterplan
+* [x] **Dreamtec Innovations** - \*\*\*\* PSG Insure Meesterplan
 
 | Vendor                                                                                                        | App                                                                                         | Purpose                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CLC**![](<../../.gitbook/assets/image (12).png>)****                                                        | PSG Assist App (_**1K+ Downloads- Rated for 3+**_) - Last Updated **Oct 13, 2022**          | <p>This app is your first point of contact for any insurance incidents you may experience.</p><p>It stores information relevant to you and your insurance policy, and makes selected policy wording and a limited claims history available for easy reference. It also offers a useful accident guide and assistance services.</p>                    |
-| **Liquid Edge** ![](<../../.gitbook/assets/image (7).png>)****                                                | myPSG App (_**10K+ Downloads - Rated for 3+**_) - Last updated **Feb 11, 2023**             | Obtain a consolidated view of all your financial information within PSG from this secure application. This includes investment portfolio values, profiles, premiums, cover amounts as well as direct access to your share portfolio and watchlist. This app is the key to your own financial vault, which can be accessed from anywhere in the world. |
-| **Iress** ![](<../../.gitbook/assets/image (11).png>)****                                                     | PSG Wealth App (_**1K+ Downloads - Rated for 3+**_) - Last Updated **Jan 31, 2019**         | Trading App for PSG Wealth                                                                                                                                                                                                                                                                                                                            |
+| **CLC**![](<../../.gitbook/assets/image (12).png>)\*\*\*\*                                                    | PSG Assist App (_**1K+ Downloads- Rated for 3+**_) - Last Updated **Oct 13, 2022**          | <p>This app is your first point of contact for any insurance incidents you may experience.</p><p>It stores information relevant to you and your insurance policy, and makes selected policy wording and a limited claims history available for easy reference. It also offers a useful accident guide and assistance services.</p>                    |
+| **Liquid Edge** ![](<../../.gitbook/assets/image (7).png>)\*\*\*\*                                            | myPSG App (_**10K+ Downloads - Rated for 3+**_) - Last updated **Feb 11, 2023**             | Obtain a consolidated view of all your financial information within PSG from this secure application. This includes investment portfolio values, profiles, premiums, cover amounts as well as direct access to your share portfolio and watchlist. This app is the key to your own financial vault, which can be accessed from anywhere in the world. |
+| **Iress** ![](<../../.gitbook/assets/image (11).png>)\*\*\*\*                                                 | PSG Wealth App (_**1K+ Downloads - Rated for 3+**_) - Last Updated **Jan 31, 2019**         | Trading App for PSG Wealth                                                                                                                                                                                                                                                                                                                            |
 | <p><strong>Dreamtec Innovations</strong></p><p><img src="../../.gitbook/assets/image (8).png" alt=""><br></p> | PSG Insure Meesterplan (_**1K+ Downloads - Rated for 3+**_) - Last updated **Jan 14, 2020** | With the PSG Meesterplan App you can request roadside and towing from and initiate a windscreen claim from your phone. Contact PSG Meesterplan to get a policy with us today or for other policy enquiries                                                                                                                                            |
 {% endtab %}
 
@@ -54,6 +55,3 @@ Main Focus
 **DeARX** - Identity and API Management (WSO2)
 {% endtab %}
 {% endtabs %}
-
-
-
